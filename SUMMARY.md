@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [The Silk Programming Language](README.md)
